@@ -5,7 +5,6 @@ A sleek and efficient task management application built with React, TypeScript, 
 ## Basic Features
 1. Task Input: Add tasks with a title
 2. Task Deletion: Delete tasks
-3. Task Persistence: Persist tasks in local storage
 
 ## Stretch Goals
 1. Task Search: Use a search bar to find tasks
@@ -15,8 +14,9 @@ A sleek and efficient task management application built with React, TypeScript, 
 5. UI Animation: Improve user interface with animations
 
 ## Extra features from my side
-- Editing a task: after creation of a task, a user can edit/update it.
 - dark mode and light mode themes.
+- Task Persistence: Persist tasks in local storage
+- more sort functionality.
 
 ## Tech Stack
 - React 18
@@ -64,14 +64,13 @@ npm run dev
 
 
 
-## Images and video of the app
-![Screenshot from 2024-11-16 16-00-26](https://github.com/user-attachments/assets/6f26545d-ec81-4d6f-9cd8-eb5f88eb5697)
+## Images of the app
 
 
 
-![Screenshot from 2024-11-16 16-00-15](https://github.com/user-attachments/assets/b0f538ae-a2eb-4e2d-ac70-4c139157d555)
+![Screenshot from 2024-12-03 18-16-57](https://github.com/user-attachments/assets/ce716167-c040-4519-984a-9009c240d91e)
+
+![Screenshot from 2024-12-03 18-16-43](https://github.com/user-attachments/assets/bb9759cd-4961-4649-813d-ae55e48c7267)
 
 
-
-[Screencast from 2024-11-16 16-00-52.webm](https://github.com/user-attachments/assets/33f186fb-435e-4bed-8633-f8e081c50503)
 
