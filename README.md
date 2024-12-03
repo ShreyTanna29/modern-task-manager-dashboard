@@ -73,4 +73,6 @@ npm run dev
 ![Screenshot from 2024-12-03 18-16-43](https://github.com/user-attachments/assets/bb9759cd-4961-4649-813d-ae55e48c7267)
 
 
+![Screenshot from 2024-12-03 18-42-49](https://github.com/user-attachments/assets/79cb38de-b14f-4aea-b9b7-1ebcaeec50ab)
 
+![Screenshot from 2024-12-03 18-42-43](https://github.com/user-attachments/assets/a8f5cbd0-b6eb-46e4-a786-a9f49c2eaa57)
