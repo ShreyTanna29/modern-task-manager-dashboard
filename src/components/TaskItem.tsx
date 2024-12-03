@@ -71,7 +71,7 @@ const TaskItem: React.FC<TaskItemProps> = ({ task }) => {
           <Button onClick={handleUpdate}>Save</Button>
         </motion.div>
       ) : (
-        <motion.div layout className="flex items-center gap-4">
+        <motion.div layout className="flex flex-row items-start sm:items-center gap-2 sm:gap-4">
 
           <input
             type="checkbox"
@@ -86,9 +86,9 @@ const TaskItem: React.FC<TaskItemProps> = ({ task }) => {
             {task.title}
           </span>
           {task.dueDate && (
-            <div className="flex items-center gap-2 ml-auto">
+            <div className="flex items-center gap-1 sm:gap-2 sm:ml-auto text-right">
               <CalendarIcon className="h-4 w-4 " />
-              <span className={`text-sm font-medium ${new Date(task.dueDate) < new Date()
+              <span className={`text-xs sm:text-sm font-medium ${new Date(task.dueDate) < new Date()
                 ? 'text-red-600 dark:text-red-400'
                 : 'text-black'
                 }`}>
