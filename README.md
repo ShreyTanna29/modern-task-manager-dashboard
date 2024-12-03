@@ -2,6 +2,11 @@
 
 A sleek and efficient task management application built with React, TypeScript, and Vite.
 
+
+## check live site
+https://modern-task-manager-dashboard.vercel.app/
+
+
 ## Basic Features
 1. Task Input: Add tasks with a title
 2. Task Deletion: Delete tasks
