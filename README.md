@@ -18,7 +18,7 @@ https://modern-task-manager-dashboard.vercel.app/
 4. Task Sorting: Sort tasks by various criteria
 5. UI Animation: Improve user interface with animations
 
-## Extra features from my side
+## Extra features
 - dark mode and light mode themes.
 - Task Persistence: Persist tasks in local storage
 - more sort functionality.
